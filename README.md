@@ -62,6 +62,3 @@ python .\verify_recovery.py "C:\path\to\recovered-folder"
 
 Archive the manifest, log and report from each run before starting the next file system, since the scripts overwrite them.
 
-## Notes
-
-Built with an AI coding agent under my review, then run and checked by me. Synthetic data only.

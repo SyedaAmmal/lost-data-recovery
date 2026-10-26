@@ -1,0 +1,81 @@
+{
+  "created_utc": "2026-10-09T12:56:00.841895+00:00",
+  "test_volume": "D:\\",
+  "files": [
+    {
+      "name": "sample_01_notes.txt",
+      "size": 10240,
+      "sha256": "de7c504d978f9831b66e0a49492d944392e075288602fb891421418162849a66"
+    },
+    {
+      "name": "sample_02_meeting.txt",
+      "size": 131072,
+      "sha256": "b4c707810410503a5f5916667ebff5bd7f979389ca2704510e43c88aa390f337"
+    },
+    {
+      "name": "sample_03_journal.txt",
+      "size": 1048576,
+      "sha256": "d311c79430d280ae8658c44476974f452cb54ff1142edba72d406f736a5731d6"
+    },
+    {
+      "name": "sample_04_photo.jpg",
+      "size": 195233,
+      "sha256": "42a8b90b066c895e97348cccbabc7a1fe72d059855f7bc5d83c887e9548d69b0"
+    },
+    {
+      "name": "sample_05_map.png",
+      "size": 2463582,
+      "sha256": "f0c00afde1bee5abc4c112123843410bd010532113a7bfaa592a402b27e4720b"
+    },
+    {
+      "name": "sample_06_report.pdf",
+      "size": 49064,
+      "sha256": "557cef091c3840e547b470e0002b312b383cc29c86cf4cb00efb230cc0bf0d6f"
+    },
+    {
+      "name": "sample_07_manual.pdf",
+      "size": 3145644,
+      "sha256": "9e3b3b88265440eab6c097b42a0f936e3354f172cc9f8836d1867a3631e5146a"
+    },
+    {
+      "name": "sample_08_memo.docx",
+      "size": 25634,
+      "sha256": "785dc529f0058d3ce06130dd819fac1debb33dca0900b5eac750594cf72b7a97"
+    },
+    {
+      "name": "sample_09_minutes.docx",
+      "size": 396362,
+      "sha256": "9a84db7293ae3b56b648d158a71d09fa1a01550cce6ecb2e5045503b96a72f6b"
+    },
+    {
+      "name": "sample_10_sales.csv",
+      "size": 20501,
+      "sha256": "8147fc5e6ce31b3b2120142977ed908e6861014b0173d5cf55f9a4b73a1254a3"
+    },
+    {
+      "name": "sample_11_contacts.csv",
+      "size": 262167,
+      "sha256": "f7fb7f366d50a7e30c65faa14014d73e63c1254119d545aab4c2ba6abde091d8"
+    },
+    {
+      "name": "sample_12_inventory.csv",
+      "size": 2097169,
+      "sha256": "10c2e76e90e0d4f1a6ddfeefcfecbe982b5c75647da51374302b9db2cb4e8ced"
+    },
+    {
+      "name": "sample_13_archive.txt",
+      "size": 4500000,
+      "sha256": "40611b8865b1dfbd14ca24fd3a95ad787d6fa5c7b0c102e87c7d03cf4afc894d"
+    },
+    {
+      "name": "sample_14_readings.csv",
+      "size": 10241,
+      "sha256": "d34d1c336339de5d176b7e018dcc2f7307a56c7f27524ea58c396a3f9d0f0490"
+    },
+    {
+      "name": "sample_15_portrait.jpg",
+      "size": 195357,
+      "sha256": "888b0113359d3ab9ed78658eae97a8a02b2a87145e92dac52db1fc5ab81d00e4"
+    }
+  ]
+}

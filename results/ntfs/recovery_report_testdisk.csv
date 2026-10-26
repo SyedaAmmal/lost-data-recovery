@@ -1,0 +1,9 @@
+FileName,Status,OriginalSizeBytes,OriginalSHA256,RecoveredPath,RecoveredSizeBytes
+sample_01_notes.txt,FULLY RECOVERED,10240,de7c504d978f9831b66e0a49492d944392e075288602fb891421418162849a66,<user>\recovered-ntfs-testdisk\_\sample_01_notes.txt,10240
+sample_04_photo.jpg,FULLY RECOVERED,195233,42a8b90b066c895e97348cccbabc7a1fe72d059855f7bc5d83c887e9548d69b0,<user>\recovered-ntfs-testdisk\_\sample_04_photo.jpg,195233
+sample_06_report.pdf,FULLY RECOVERED,49064,557cef091c3840e547b470e0002b312b383cc29c86cf4cb00efb230cc0bf0d6f,<user>\recovered-ntfs-testdisk\_\sample_06_report.pdf,49064
+sample_08_memo.docx,FULLY RECOVERED,25634,623b9644bd1057e37e9528501a11b68b34cc867d050ab34d4c574e9f9831c56c,<user>\recovered-ntfs-testdisk\_\sample_08_memo.docx,25634
+sample_10_sales.csv,FULLY RECOVERED,20501,8147fc5e6ce31b3b2120142977ed908e6861014b0173d5cf55f9a4b73a1254a3,<user>\recovered-ntfs-testdisk\_\sample_10_sales.csv,20501
+sample_12_inventory.csv,FULLY RECOVERED,2097169,10c2e76e90e0d4f1a6ddfeefcfecbe982b5c75647da51374302b9db2cb4e8ced,<user>\recovered-ntfs-testdisk\_\sample_12_inventory.csv,2097169
+sample_13_archive.txt,FULLY RECOVERED,4500000,40611b8865b1dfbd14ca24fd3a95ad787d6fa5c7b0c102e87c7d03cf4afc894d,<user>\recovered-ntfs-testdisk\_\sample_13_archive.txt,4500000
+sample_15_portrait.jpg,FULLY RECOVERED,195357,888b0113359d3ab9ed78658eae97a8a02b2a87145e92dac52db1fc5ab81d00e4,<user>\recovered-ntfs-testdisk\_\sample_15_portrait.jpg,195357

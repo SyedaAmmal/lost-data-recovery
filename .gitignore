@@ -1,0 +1,7 @@
+﻿*.vhdx
+__pycache__/
+*.pyc
+/manifest_before.json
+/deletion_log.csv
+/recovery_report.csv
+.DS_Store
